@@ -3,7 +3,7 @@ BEGIN {
   $Alien::mpg123::AUTHORITY = 'cpan:GETTY';
 }
 {
-  $Alien::mpg123::VERSION = '0.001';
+  $Alien::mpg123::VERSION = '0.002';
 }
 # ABSTRACT: mpg123 music player
 
@@ -20,7 +20,7 @@ Alien::mpg123 - mpg123 music player
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 

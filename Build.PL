@@ -15,7 +15,7 @@ my %module_build_args = (
   },
   "build_requires" => {
     "Test::LoadAllModules" => "0.021",
-    "Test::More" => "0.98"
+    "Test::More" => "0.96"
   },
   "configure_requires" => {
     "Alien::Base" => "0.002",
@@ -27,7 +27,7 @@ my %module_build_args = (
     "Torsten Raudssus <torsten\@raudss.us>"
   ],
   "dist_name" => "Alien-mpg123",
-  "dist_version" => "0.001",
+  "dist_version" => "0.002",
   "license" => "perl",
   "module_name" => "Alien::mpg123",
   "recommends" => {},
